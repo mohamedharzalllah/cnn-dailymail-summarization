@@ -1,0 +1,6 @@
+# Large dataset files (CNN/DailyMail, ~1.3 GB) - download separately
+data/*.csv
+archive/
+.ipynb_checkpoints/
+__pycache__/
+.claude/
